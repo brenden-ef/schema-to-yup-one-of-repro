@@ -1,0 +1,19 @@
+{
+  "name": "schema-to-yup-one-of-repro",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "repro.js",
+  "scripts": {
+    "start": "node ./repro.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "schema-to-yup": "^1.11.18"
+  },
+  "volta": {
+    "node": "18.12.1"
+  }
+}
